@@ -112,6 +112,8 @@ Lazer
 
 Inscrições em academias, entradas para cinemas e eventos locais.
 
+![despesas_winnipeg -grafico_page-0001](https://github.com/user-attachments/assets/19efb1fd-d216-4d15-95cf-ed60d4649a72)
+
 
 
 ---
