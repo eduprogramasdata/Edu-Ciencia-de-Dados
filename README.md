@@ -54,8 +54,6 @@ Documentos bancários que atestem fundos suficientes para sua manutenção inici
 Certidões de nascimento, casamento (se aplicável) e atestados de antecedentes criminais.
 
 
-![despesas_winnipeg tabela_page-0001](https://github.com/user-attachments/assets/42b58c91-beb0-4426-b16d-9019934127e6)
-
 
 Onde Encontrar Documentos e Informações
 
@@ -76,7 +74,7 @@ Documentação específica: Documentação MPNP.
 
 2. Lista de Despesas Mensais em Winnipeg
 
-Acomodações
+![despesas_winnipeg tabela_page-0001](https://github.com/user-attachments/assets/42b58c91-beb0-4426-b16d-9019934127e6)
 
 Aluguel de apartamentos no centro e fora do centro.
 
