@@ -52,7 +52,7 @@ Documentos bancários que atestem fundos suficientes para sua manutenção inici
 6. Certidões e Antecedentes
 
 Certidões de nascimento, casamento (se aplicável) e atestados de antecedentes criminais.
-![custos winnipeg_page-0001 (3) (1) (1) (1) (1)](https://github.com/user-attachments/assets/9211d3d2-0937-4658-8cfd-fbc08a94c912)
+
 
 
 
