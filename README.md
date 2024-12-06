@@ -67,9 +67,6 @@ Formulários e Checklists:
 
 Documentação específica: Documentação MPNP.
 
-
-
-
 ---
 
 2. Lista de Despesas Mensais em Winnipeg
