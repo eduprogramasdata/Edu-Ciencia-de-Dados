@@ -1,4 +1,4 @@
-README: Como Imigrar para Winnipeg, Canadá
+Como Imigrar para Winnipeg, Canadá
 
 Introdução
 
@@ -54,6 +54,7 @@ Documentos bancários que atestem fundos suficientes para sua manutenção inici
 Certidões de nascimento, casamento (se aplicável) e atestados de antecedentes criminais.
 
 
+![despesas_winnipeg tabela_page-0001](https://github.com/user-attachments/assets/42b58c91-beb0-4426-b16d-9019934127e6)
 
 
 Onde Encontrar Documentos e Informações
